@@ -1,5 +1,5 @@
 # mBot-resources
-### *A collection of educational resources for the makerbot mBot*
+### *A collection of educational resources for the makebot mBot robot* 
 
 
 ## Official resources
