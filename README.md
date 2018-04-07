@@ -29,5 +29,5 @@
 - [mBot resource download](http://learn.makeblock.com/mbot-resource-download/)
 
 
-## Inspiration and more sources
+## Inspiration and more resources
 - [https://makeblockshop.eu/pages/documentation](https://makeblockshop.eu/pages/documentation)
