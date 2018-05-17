@@ -31,3 +31,17 @@
 
 ## Inspiration and more resources
 - [https://makeblockshop.eu/pages/documentation](https://makeblockshop.eu/pages/documentation)
+
+
+## Videos and video tutorials and project ideas
+- Projects built with Makeblock:
+[https://www.youtube.com/watch?v=9j4Lwx4OOdk](https://www.youtube.com/watch?v=9j4Lwx4OOdk)
+
+- What's Ultimate Robot Kit Capable of (from @Makeblock)
+[https://www.youtube.com/watch?v=KyipjizhbBA](https://www.youtube.com/watch?v=KyipjizhbBA)
+
+- Makeblock - Robotik Arm Tank / Speed Build
+[https://www.youtube.com/watch?v=2FbCy6JiELM](https://www.youtube.com/watch?v=2FbCy6JiELM)
+
+- Unboxing & Let's Play - Ultimate 2.0 - 10 in 1 Robot Kit - by MakeBlock - STEM robotics:
+[https://www.youtube.com/watch?v=aV73x3oj2w0](https://www.youtube.com/watch?v=aV73x3oj2w0)
